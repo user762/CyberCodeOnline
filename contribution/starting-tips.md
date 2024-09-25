@@ -3,7 +3,7 @@
 #### Please take a look at the rules found under the 'Profile' tab, then under 'Tutorial' at the top.
 
 * To begin with, take the Hyper Train Central Station [Adventure] to the level 1-4 area and attack the bad guys.
-* Wait 'till your equipment level is at least 8 or so to start your first dungeon.
+* Wait 'till your equipment level is at least 6 or so to start your first dungeon.
 * Pay attention to your Gear Level. If your stats are too low for your actual level then it may be time to print some new gear.
 * Items you print will always be the level of your Printing Rank.
 * Print and scrap trash equipment (grey) to increase your Printing Rank.
